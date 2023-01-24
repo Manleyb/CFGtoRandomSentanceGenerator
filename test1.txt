@@ -1,0 +1,5 @@
+A-> {the ,a} {N}
+
+N->{policeman , firefighter , paramedic} {V}
+
+V-> {ran, sprinted, helped} 

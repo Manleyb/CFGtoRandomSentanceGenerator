@@ -1,0 +1,8 @@
+S-> {NP} {VP}
+NP-> {Det} {N}
+Det-> {the, a}
+N-> {dog, cat, Elon, Bryce, School, Computer}
+VP->{V} {NP} {PP}
+V-> {saw, ran, hunted, ran, swam}
+PP-> {P} {NP}
+P-> {in, around, through}

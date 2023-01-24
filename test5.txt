@@ -1,0 +1,2 @@
+
+s->{hello} {this , should, work}

@@ -1,0 +1,9 @@
+S->{A}{BV}{A}{V} 
+
+A- {I, he, the Pope} 
+
+N->{policeman, firefighter, paramedic, guy, person} 
+
+BV-> {is, was} 
+
+V->{nice, kind, hateful, mean} 

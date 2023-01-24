@@ -1,0 +1,7 @@
+S-> {A}{N}{V}{A}{N}
+
+A-> {the ,a} 
+
+N->{policeman, firefighter, paramedic, guy, person} 
+
+V-> {assisted, helped} 
