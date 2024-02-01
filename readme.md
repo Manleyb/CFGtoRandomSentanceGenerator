@@ -37,4 +37,4 @@ This process will be repeated for every NTS value that was called in the first l
 
 So one possible result will be he  was I helpful. This sentance is not germaticly sound, but you get the idea. 
 
-https://docs.google.com/viewer?url=https://drive.google.com/file/d/1wwUQl0pc55n4bJgyiuGk7h2iIOGGMZPI/view?usp=sharing
+https://github.com/Manleyb/CFGtoRandomSentanceGenerator/blob/main/CS375Manleyb23InfoGraphic-1.pdf
