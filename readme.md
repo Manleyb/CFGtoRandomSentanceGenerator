@@ -8,7 +8,7 @@ Steps to run the program:
 File format:
 For example valid file formats see test 1-3 in the project folder. 
 
-However to explain how to create a valid testfile I will gie the example from test2.txt as it is more standard to a normal CFG then 
+However to explain how to create a valid testfile I will give the example from test2.txt as it is more standard to a normal CFG then 
 test1 and simpler then test3 
 
 Test2.txt: 
